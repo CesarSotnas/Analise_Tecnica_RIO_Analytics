@@ -1,0 +1,85 @@
+colunas
+pressure_1
+temperature_1
+temperature_2
+temperature_3
+temperature_4
+temperature_5
+power_1
+speed_1
+temperature_6
+torque_1
+position_1
+pressure_2
+temperature_7
+pressure_3
+torque_2
+pressure_4
+speed_2
+pressure_5
+speed_3
+torque_3
+
+medições
+7 medições de temperatura
+5 medições de pressão
+1 medição de poder
+3 medições de velocidade
+3 medições de torque
+1 medição de posição
+
+possíveis gráficos:
+Encontrar outliers
+
+coluna data, comparar horários 
+
+comparação de temperaturas
+pressão
+
+Definições:
+
+Pressão:
+Os sensores de pressão industriais são utilizados para detetar,
+medir e controlar a pressão de fluidos em processos industriais. 
+Encontra-se frequentemente em aplicações de medição de pressão, 
+como a produção de energia, produção de petróleo e gás, 
+tratamento e refinação de água e processamento químico.
+
+Temperatura: 
+O sensor de temperatura trata-se de uma tecnologia de monitoramento de equipamentos. 
+Sua função é identificar variações de temperatura em equipamentos industriais.
+
+força:
+ensores de força são dispositivos utilizados em equipamentos 
+industriais para medir a força ou carga aplicada em um objeto ou superfície. 
+Esses sensores são essenciais em diversas aplicações industriais, 
+onde o monitoramento preciso da força é crucial para garantir a eficiência, segurança e qualidade dos processos. 
+
+Velocidade:
+Sensores de velocidade são dispositivos utilizados em equipamentos industriais para medir 
+a velocidade de movimento de um objeto, como a rotação de um eixo ou a velocidade linear de um componente. 
+Esses sensores são essenciais em sistemas industriais para o controle e monitoramento de máquinas e processos, 
+garantindo que eles operem dentro de parâmetros seguros e eficientes.
+
+Torque:
+Sensores de torque são dispositivos utilizados em equipamentos industriais para medir o torque, 
+ou força de torção, aplicada a um eixo ou componente rotativo. Eles são essenciais para monitorar 
+e controlar máquinas que realizam operações de rotação, 
+garantindo que o torque aplicado esteja dentro de limites seguros e otimizados para o processo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
