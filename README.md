@@ -10,7 +10,6 @@ Os sensores industriais são utilizados para extrair dados em tempo real de dete
 Esses dados permitem um controle eficaz sobre a linha, possibilitando identificar possíveis falhas, medição de peças e diversas outras aplicações.
 ___
 # **Tópicos**
-
 <ol type="1">
     <li>Introdução;</li>
     <li>Análise de variáveis quantitativas;</li>
